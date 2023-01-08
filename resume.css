@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    background-image:linear-gradient(green,yellow);
+    padding: 2px;
+    justify-content: center;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+
+  #head{
+    font-family:algerian;
+  }
+  .whole-html{
+    border:2px solid black;
+    background-color:orange;
+  }
+  
+  
+  .grid-one{
+    display:inline-block;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    padding:10px;
+    
+  }
+
+  .stud-edu{
+    border: 5PX SOLID BLUE;
+    background-color:whitesmoke;
+  }
+.ten{
+    border-right:2px solid black;
+    padding: 5px;
+}
+.twelve{
+    border-right:2px solid black;
+    padding: 5px;
+
+}
+
+#work{
+    border:2px solid black;
+    padding: 5px;
+    background-color:whitesmoke;
+}
+   .bar
+   {
+    
+    background-color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
